@@ -1,0 +1,34 @@
+C:\Users\ds-tec-2\Desktop\Desenvolvimento de Sistemas-wagner\Delegate\Delegate\bin\Debug\net6.0-windows\Delegate.exe
+C:\Users\ds-tec-2\Desktop\Desenvolvimento de Sistemas-wagner\Delegate\Delegate\bin\Debug\net6.0-windows\Delegate.deps.json
+C:\Users\ds-tec-2\Desktop\Desenvolvimento de Sistemas-wagner\Delegate\Delegate\bin\Debug\net6.0-windows\Delegate.runtimeconfig.json
+C:\Users\ds-tec-2\Desktop\Desenvolvimento de Sistemas-wagner\Delegate\Delegate\bin\Debug\net6.0-windows\Delegate.dll
+C:\Users\ds-tec-2\Desktop\Desenvolvimento de Sistemas-wagner\Delegate\Delegate\bin\Debug\net6.0-windows\Delegate.pdb
+C:\Users\ds-tec-2\Desktop\Desenvolvimento de Sistemas-wagner\Delegate\Delegate\obj\Debug\net6.0-windows\Delegate.csproj.AssemblyReference.cache
+C:\Users\ds-tec-2\Desktop\Desenvolvimento de Sistemas-wagner\Delegate\Delegate\obj\Debug\net6.0-windows\Delegate.Form1.resources
+C:\Users\ds-tec-2\Desktop\Desenvolvimento de Sistemas-wagner\Delegate\Delegate\obj\Debug\net6.0-windows\Delegate.csproj.GenerateResource.cache
+C:\Users\ds-tec-2\Desktop\Desenvolvimento de Sistemas-wagner\Delegate\Delegate\obj\Debug\net6.0-windows\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ds-tec-2\Desktop\Desenvolvimento de Sistemas-wagner\Delegate\Delegate\obj\Debug\net6.0-windows\Delegate.AssemblyInfoInputs.cache
+C:\Users\ds-tec-2\Desktop\Desenvolvimento de Sistemas-wagner\Delegate\Delegate\obj\Debug\net6.0-windows\Delegate.AssemblyInfo.cs
+C:\Users\ds-tec-2\Desktop\Desenvolvimento de Sistemas-wagner\Delegate\Delegate\obj\Debug\net6.0-windows\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\ds-tec-2\Desktop\Desenvolvimento de Sistemas-wagner\Delegate\Delegate\obj\Debug\net6.0-windows\Delegate.dll
+C:\Users\ds-tec-2\Desktop\Desenvolvimento de Sistemas-wagner\Delegate\Delegate\obj\Debug\net6.0-windows\refint\Delegate.dll
+C:\Users\ds-tec-2\Desktop\Desenvolvimento de Sistemas-wagner\Delegate\Delegate\obj\Debug\net6.0-windows\Delegate.pdb
+C:\Users\ds-tec-2\Desktop\Desenvolvimento de Sistemas-wagner\Delegate\Delegate\obj\Debug\net6.0-windows\Delegate.genruntimeconfig.cache
+C:\Users\ds-tec-2\Desktop\Desenvolvimento de Sistemas-wagner\Delegate\Delegate\obj\Debug\net6.0-windows\ref\Delegate.dll
+C:\Users\ds-tec-3\Desktop\ds\Delegate\Delegate\Delegate\bin\Debug\net6.0-windows\Delegate.exe
+C:\Users\ds-tec-3\Desktop\ds\Delegate\Delegate\Delegate\bin\Debug\net6.0-windows\Delegate.deps.json
+C:\Users\ds-tec-3\Desktop\ds\Delegate\Delegate\Delegate\bin\Debug\net6.0-windows\Delegate.runtimeconfig.json
+C:\Users\ds-tec-3\Desktop\ds\Delegate\Delegate\Delegate\bin\Debug\net6.0-windows\Delegate.dll
+C:\Users\ds-tec-3\Desktop\ds\Delegate\Delegate\Delegate\bin\Debug\net6.0-windows\Delegate.pdb
+C:\Users\ds-tec-3\Desktop\ds\Delegate\Delegate\Delegate\obj\Debug\net6.0-windows\Delegate.csproj.AssemblyReference.cache
+C:\Users\ds-tec-3\Desktop\ds\Delegate\Delegate\Delegate\obj\Debug\net6.0-windows\Delegate.Form1.resources
+C:\Users\ds-tec-3\Desktop\ds\Delegate\Delegate\Delegate\obj\Debug\net6.0-windows\Delegate.csproj.GenerateResource.cache
+C:\Users\ds-tec-3\Desktop\ds\Delegate\Delegate\Delegate\obj\Debug\net6.0-windows\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ds-tec-3\Desktop\ds\Delegate\Delegate\Delegate\obj\Debug\net6.0-windows\Delegate.AssemblyInfoInputs.cache
+C:\Users\ds-tec-3\Desktop\ds\Delegate\Delegate\Delegate\obj\Debug\net6.0-windows\Delegate.AssemblyInfo.cs
+C:\Users\ds-tec-3\Desktop\ds\Delegate\Delegate\Delegate\obj\Debug\net6.0-windows\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\ds-tec-3\Desktop\ds\Delegate\Delegate\Delegate\obj\Debug\net6.0-windows\Delegate.dll
+C:\Users\ds-tec-3\Desktop\ds\Delegate\Delegate\Delegate\obj\Debug\net6.0-windows\refint\Delegate.dll
+C:\Users\ds-tec-3\Desktop\ds\Delegate\Delegate\Delegate\obj\Debug\net6.0-windows\Delegate.pdb
+C:\Users\ds-tec-3\Desktop\ds\Delegate\Delegate\Delegate\obj\Debug\net6.0-windows\Delegate.genruntimeconfig.cache
+C:\Users\ds-tec-3\Desktop\ds\Delegate\Delegate\Delegate\obj\Debug\net6.0-windows\ref\Delegate.dll
